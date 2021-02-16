@@ -45,6 +45,9 @@
     "totalResponses": 10,
     "Promoters": 4,
     "Passives": 4,
-    "Detractors": 2
+    "Detractors": 2,
+    "promoterPercentage": 40,
+    "passivePercentage": 40,
+    "detractorPercentage": 20
   }
 }
