@@ -1,48 +1,50 @@
 {
-  "responseData":
-    [
-  {
-    "Customer Name": "Danny tagart",
-    "Email": "danny@taggart.com",
-    "Phone Number": "+91 8776023983",
-    "Sent Time": "11:48AM, 15 Oct 2015",
-    "Response Time": "12:48PM, 18 Oct 2015",
-    "Score": "6"
-  },
-  {
-    "Customer Name": "Danny tagart",
-    "Email": "danny@taggart.com",
-    "Phone Number": "+91 8776023983",
-    "Sent Time": "11:48AM, 15 Oct 2015",
-    "Response Time": "12:48PM, 18 Oct 2015",
-    "Score": "6"
-  },
-  {
-    "Customer Name": "Danny tagart",
-    "Email": "danny@taggart.com",
-    "Phone Number": "+91 8776023983",
-    "Sent Time": "11:48AM, 15 Oct 2015",
-    "Response Time": "12:48PM, 18 Oct 2015",
-    "Score": "6"
-  },
-  {
-    "Customer Name": "Danny tagart",
-    "Email": "danny@taggart.com",
-    "Phone Number": "+91 8776023983",
-    "Sent Time": "11:48AM, 15 Oct 2015",
-    "Response Time": "12:48PM, 18 Oct 2015",
-    "Score": "6"
-  },
-  {
-    "Customer Name": "Danny tagart",
-    "Email": "danny@taggart.com",
-    "Phone Number": "+91 8776023983",
-    "Sent Time": "11:48AM, 15 Oct 2015",
-    "Response Time": "12:48PM, 18 Oct 2015",
-    "Score": "6"
-  }
+  "responseData": [
+    {
+      "Customer Name": "Danny tagart",
+      "Email": "danny@taggart.com",
+      "Phone Number": "+91 8776023983",
+      "Sent Time": "11:48AM, 15 Oct 2015",
+      "Response Time": "12:48PM, 18 Oct 2015",
+      "Score": "6"
+    },
+    {
+      "Customer Name": "Danny tagart",
+      "Email": "danny@taggart.com",
+      "Phone Number": "+91 8776023983",
+      "Sent Time": "11:48AM, 15 Oct 2015",
+      "Response Time": "12:48PM, 18 Oct 2015",
+      "Score": "6"
+    },
+    {
+      "Customer Name": "Danny tagart",
+      "Email": "danny@taggart.com",
+      "Phone Number": "+91 8776023983",
+      "Sent Time": "11:48AM, 15 Oct 2015",
+      "Response Time": "12:48PM, 18 Oct 2015",
+      "Score": "6"
+    },
+    {
+      "Customer Name": "Danny tagart",
+      "Email": "danny@taggart.com",
+      "Phone Number": "+91 8776023983",
+      "Sent Time": "11:48AM, 15 Oct 2015",
+      "Response Time": "12:48PM, 18 Oct 2015",
+      "Score": "6"
+    },
+    {
+      "Customer Name": "Danny tagart",
+      "Email": "danny@taggart.com",
+      "Phone Number": "+91 8776023983",
+      "Sent Time": "11:48AM, 15 Oct 2015",
+      "Response Time": "12:48PM, 18 Oct 2015",
+      "Score": "6"
+    }
   ],
-  "profile": {
-    "name": "typicode"
+  "responses": {
+    "totalResponses": 10,
+    "Promoters": 4,
+    "Passives": 4,
+    "Detractors": 2
   }
 }
