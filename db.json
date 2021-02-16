@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "posts":
     [
   {
     "Customer Name": "Danny tagart",
@@ -41,7 +41,6 @@
     "Response Time": "12:48PM, 18 Oct 2015",
     "Score": "6"
   }
-]
   ],
   "profile": {
     "name": "typicode"
